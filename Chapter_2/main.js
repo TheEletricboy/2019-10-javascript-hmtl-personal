@@ -45,4 +45,20 @@ let html = `
     <span>This blog has ${likes} likes</span>
 `;
 
+//=============================
 
+let thisArray = ['eu', 'tu', 'tua mae'];
+//the result will be eu-tu-tua mae
+let thisArrayResult = thisArray.join('-');
+
+//result is the addition of these strings to the array
+let thisArrayResul2 = thisArray.concat('nós', 'vos'); //adds these to the original array
+
+//should be the same as .length
+let thisArrayResul3 = thisArray.push('ken');//pretty sure it also adds ken to it
+
+//Takes away the last index of the array
+let thisArrayResul4 = thisArray.pop();
+
+
+//===============================
