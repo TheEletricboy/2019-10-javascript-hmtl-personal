@@ -18,5 +18,6 @@
 2. On samsung TV have developer mode active
 3. Get the project open on Tizen:
 		Connect to TV using its IP address, scan remote device manager
+		In APPS press 12345 and input your IP
 
 4. Click on your project file in the hierarchy> Debug as> the samsung TV
